@@ -10,7 +10,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
-* Multiverse Image Colorizing with DeOldify
+* [Multiverse Image Colorizing with DeOldify](https://colab.research.google.com/github/robgon-art/portraits-from-the-multiverse/blob/main/Portraits_from_the_Multiverse_Image_Colorizer.ipynb)
 * Multiverse Image Modification with StyleCLIP
 * Multiverse Image Modification with InterFaceGAN
 
