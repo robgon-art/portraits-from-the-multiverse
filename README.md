@@ -12,7 +12,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ## Google Colabs
 * [Multiverse Image Colorizing with DeOldify](https://colab.research.google.com/github/robgon-art/portraits-from-the-multiverse/blob/main/Portraits_from_the_Multiverse_Image_Colorizer.ipynb)
 * [Multiverse Image Modification with StyleCLIP](https://colab.research.google.com/github/robgon-art/portraits-from-the-multiverse/blob/main/Portraits_from_the_Multiverse_Image_Modification_with_StyleCLIP.ipynb)
-* Multiverse Image Modification with InterFaceGAN
+* [Multiverse Image Modification with InterFaceGAN](https://colab.research.google.com/github/robgon-art/portraits-from-the-multiverse/blob/main/Portraits_from_the_Multiverse_StyleCLIP_Image_Modification_with_InterFaceGAN.ipynb)
 
 ## Acknowledgements
 * DeOldify by Jason Antic, https://github.com/jantic/DeOldify
